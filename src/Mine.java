@@ -1,4 +1,6 @@
 public class Mine {
+// First Change
+
 
 	private int xPosition;
 	private int yPosition;
@@ -9,7 +11,7 @@ public class Mine {
 		return this.checked;
 
 	}
-
+// Second Change
 	public void setChecked(int checkValue) {
 		this.checked = checkValue;
 	}
